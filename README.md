@@ -1,7 +1,5 @@
 # BST-Implementation
 Implementation of a Binary Search Tree in C++
-# BST-Implementation
-Implementation of a Binary Search Tree in C++
 
 This project provides a simple and clear implementation of a Binary Search Tree (BST) in modern C++. It includes all the fundamental operations such as insertion, deletion, search, and tree traversals (in-order, pre-order, and post-order). 
 
